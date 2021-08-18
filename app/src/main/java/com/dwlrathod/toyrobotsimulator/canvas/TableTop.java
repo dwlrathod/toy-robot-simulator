@@ -127,6 +127,10 @@ public class TableTop extends View implements View.OnTouchListener {
         currentPosition = position;
     }
 
+    public Position getCurrentPosition() {
+        return currentPosition;
+    }
+
     public void changeFace(int change) {
         if (currentPosition != null) {
             int newFace = currentPosition.getF();
@@ -198,7 +202,7 @@ public class TableTop extends View implements View.OnTouchListener {
         }
     }
 
-    private String getFaceName(int face) {
+    public String getFaceName(int face) {
         switch (face) {
             case Face.SOUTH:
                 return "South";
