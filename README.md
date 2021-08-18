@@ -1,6 +1,6 @@
 # Toy Robot Simulator
 
-This project contains solution for Toy Robot Simulator. 
+This project contains solution in Android for below Toy Robot Simulator problem. 
 
 
 ## Description
