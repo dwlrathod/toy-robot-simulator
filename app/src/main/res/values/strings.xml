@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Toy Robot Simulator</string>
+    <string name="west">West</string>
+    <string name="south">South</string>
+    <string name="east">East</string>
+    <string name="north">North</string>
+    <string name="place">Place</string>
+    <string name="report">Report</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="move">Move</string>
+    <string name="report_message">X: %d\nY: %d\nFace: %s</string>
+    <string name="current_position_error">Please place robot first.</string>
+    <string name="invalid_move">Invalid move.</string>
 </resources>

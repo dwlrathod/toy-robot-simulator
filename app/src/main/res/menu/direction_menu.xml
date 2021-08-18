@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/north"
+        android:title="@string/north" />
+    <item
+        android:id="@+id/south"
+        android:title="@string/south" />
+    <item
+        android:id="@+id/east"
+        android:title="@string/east" />
+    <item
+        android:id="@+id/west"
+        android:title="@string/west" />
+</menu>
